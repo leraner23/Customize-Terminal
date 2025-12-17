@@ -1,1 +1,1 @@
-# Customize-Terminal
+# Transform-Boring-Terminal-into-Interesting-Terminal-
